@@ -2,6 +2,8 @@
 
 Одностраничный адаптивный сайт на HTML и CSS без зависимостей.
 
+Сайт: https://inv1nced.github.io/hello-site/
+
 Откройте `index.html` в браузере для локального просмотра.
 
-Для GitHub Pages: Settings → Pages → Deploy from a branch → main → / (root).
+GitHub Pages публикует сайт из ветки `main`, каталога `/ (root)`. Для обновления отправьте изменения в `main`.
